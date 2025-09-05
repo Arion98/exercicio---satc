@@ -1,4 +1,4 @@
-salario = int(input("Digite seu salário:"))
+salario = float(input("Digite seu salário:"))
 
 if(salario < 1000):
     novoSalario = salario * 1.10
